@@ -1,4 +1,4 @@
-# Excel-data-analysis
+# Excel: sales-and-financial-analysis
 - **Project objective:** 
 
     **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
